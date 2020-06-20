@@ -1,13 +1,17 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap');
+</style>
+
 body {
-  background-color: #dde3df;
+  background-color: #FFF4D6;
   font-family: Raleway;
   color: #042d65;
   font-size: 30px;
 }
 
 h1, h3 {
-  color: #0a2f5c;
-  font-family: Roboto;
+  color: #390099;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 h1 {
@@ -15,7 +19,7 @@ h1 {
 }
 
 h2 {
-  color: #e07b39;
+  color: #FF0054;
   font-size: 24px;
 }
 
